@@ -1,10 +1,10 @@
 ---
 id: 4
 title: "Board link to digest"
-state: open
+state: closed
 labels: [plan:morning-digest]
 created: 2026-11-09T13:30:00+01:00
-closed: null
+closed: 2026-11-09T13:35:00+01:00
 ---
 
 Source: plan.md § 2c
@@ -17,3 +17,9 @@ Both nights on disk link to a digest that renders.
 
 ## Blocked by
 #1 (`src/digest/types.ts`)
+
+## Closing comment
+
+done: status board links nights with ok/retry/fail counts
+worker: cursor · composer · medium
+commit: 7ca3516

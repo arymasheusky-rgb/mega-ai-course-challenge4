@@ -1,10 +1,10 @@
 ---
 id: 1
 title: "Run log reader"
-state: open
+state: closed
 labels: [plan:morning-digest]
 created: 2026-11-09T13:30:00+01:00
-closed: null
+closed: 2026-11-09T13:35:00+01:00
 ---
 
 Source: plan.md § 1
@@ -19,3 +19,9 @@ Reader tests pass on `runs/2026-10-28.jsonl` (5 jobs, 1 bad line).
 
 ## Blocked by
 —
+
+## Closing comment
+
+done: src/digest reader + types; tests green on 2026-10-28
+worker: cursor · composer · medium
+commit: 7ca3516

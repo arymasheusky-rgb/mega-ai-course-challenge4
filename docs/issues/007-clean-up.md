@@ -1,10 +1,10 @@
 ---
 id: 7
 title: "Clean up"
-state: open
+state: closed
 labels: [plan:morning-digest]
 created: 2026-11-09T13:30:00+01:00
-closed: null
+closed: 2026-11-09T13:35:00+01:00
 ---
 
 Source: plan.md § 4
@@ -17,3 +17,9 @@ The preview link no longer shows the lane marker.
 
 ## Blocked by
 #6
+
+## Closing comment
+
+done: marker stripped on preview; plan moved to docs/plans/done
+worker: cursor · composer · medium
+commit: 7ca3516
